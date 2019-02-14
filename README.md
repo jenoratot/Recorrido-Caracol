@@ -1,4 +1,4 @@
-# Recorrido-Caracol
+# Recorrido Caracol
 
 John Esteban Norato - 20171025022
 
